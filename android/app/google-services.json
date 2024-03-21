@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "719023676852",
+    "project_id": "chashmart-76797",
+    "storage_bucket": "chashmart-76797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719023676852:android:eb525514be1fbf114666e1",
+        "android_client_info": {
+          "package_name": "com.example.chashmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719023676852-qc4m94a0h5gdpuh8iq2lvvafmn29jcfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBlmEftxmuTl5lWffeWAl6R1yNhoo02o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719023676852-qc4m94a0h5gdpuh8iq2lvvafmn29jcfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719023676852:android:d7c08d053bca0f3a4666e1",
+        "android_client_info": {
+          "package_name": "com.example.chashmart_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719023676852-4p0ks79tbcd57mlqtrejeal6331j48qe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chashmart_admin",
+            "certificate_hash": "80f5e16055d672b0406f1d312ce6a84ac6d9741b"
+          }
+        },
+        {
+          "client_id": "719023676852-qc4m94a0h5gdpuh8iq2lvvafmn29jcfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBlmEftxmuTl5lWffeWAl6R1yNhoo02o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719023676852-qc4m94a0h5gdpuh8iq2lvvafmn29jcfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
