@@ -28,12 +28,11 @@ import 'screens/search_screen.dart';
 void main() {
   AR().initialize();
   PaymobPakistan.instance.initialize(
-    apiKey:
-        "ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmpiR0Z6Y3lJNklrMWxjbU5vWVc1MElpd2ljSEp2Wm1sc1pWOXdheUk2TVRFNU1qTXlMQ0p1WVcxbElqb2lhVzVwZEdsaGJDSjkuTF9Xd2xvWGlQcUpCTWFSMXRNbGFxbzNTYnVCS3N4SXV5Z2NQMDBlb0ZuTEhnRkh2YjVfMDE4YzZsSktmNFZkTDBZUWZqOUxSSmpmMkhKcVdYTG1yMnc=",
-    integrationID: 134580,
-    iFrameID: 147471,
-    jazzcashIntegrationId: 546789,
-    easypaisaIntegrationID: 345676,
+    apiKey:YOUR_APIKEY_HERE,
+    integrationID: ,
+    iFrameID: ,
+    jazzcashIntegrationId: ,
+    easypaisaIntegrationID: ,
   );
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp])
