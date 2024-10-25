@@ -58,7 +58,6 @@ dependencies:
   confetti: ^0.7.0
   just_audio: ^0.9.34
   lottie: ^2.6.0
-  get: ^4.6.6
   flutter_svg: ^2.0.10+1
   avatar_glow: ^2.0.2
   kommunicate_flutter: ^1.8.0
